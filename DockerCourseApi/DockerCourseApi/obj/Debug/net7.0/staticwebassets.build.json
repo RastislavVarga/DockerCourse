@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8fDJt0chcxrRMqkkaRfshLyGHCAaktmH8GB4AtdAINI=",
+  "Source": "DockerCourseApi",
+  "BasePath": "_content/DockerCourseApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
